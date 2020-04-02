@@ -16,3 +16,7 @@ More information about the individual projects can be found in the README file o
 * Find in [GitHub](https://github.com/praz99/appleClone)
 * See [Live Demo](https://raw.githack.com/praz99/appleClone/master/index.html)
 * View [Original Site](https://web.archive.org/web/20140301004610/http://www.apple.com/)
+##Project 5: Design Teardown
+* Find in [GitHub](https://github.com/praz99/designTeardown)
+* See [Live Demo](https://raw.githack.com/praz99/designTeardown/workingBranch/index.html)
+* View [Original Site](https://www.smashingmagazine.com/)
