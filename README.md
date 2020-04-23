@@ -24,3 +24,7 @@ More information about the individual projects can be found in the README file o
 * Find in [GitHub](https://github.com/praz99/responsive-design)
 * See [Live Demo](https://raw.githack.com/expjazz/responsive-design/thenextweb/index.html)
 * View [Original Site](https://thenextweb.com/)
+## Project 7: Using Bootstrap
+* Find in [GitHub](https://github.com/praz99/newsweekClone)
+* See [Live Demo](https://raw.githack.com/praz99/newsweekClone/mainpage/index.html)
+* View [Original Site](https://www.newsweek.com/)
