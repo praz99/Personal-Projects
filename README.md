@@ -28,3 +28,8 @@ More information about the individual projects can be found in the README file o
 * Find in [GitHub](https://github.com/praz99/newsweekClone)
 * See [Live Demo](https://raw.githack.com/praz99/newsweekClone/mainpage/index.html)
 * View [Original Site](https://www.newsweek.com/)
+## Project 8: HTML & CSS Capstone
+* Find in [GitHub](https://github.com/praz99/HTML-CSS-Capstone-project)
+* See [Live Demo](https://raw.githack.com/praz99/HTML-CSS-Capstone-project/mainpage/index.html)
+* View [Project Specifications](https://www.notion.so/HTML-CSS-capstone-project-Directory-of-Schools-eea352bfaf3e4a83b2917df1f9a4e140)
+* View [Original Design](https://www.behance.net/gallery/25563385/PatashuleKE)
